@@ -25,7 +25,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/rohans/aura-edge-vision.git
+git clone https://github.com/rohans2596-bot/aura-edge-vision.git
 cd aura-edge-vision
 npm start
 ```
